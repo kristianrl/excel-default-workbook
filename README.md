@@ -9,3 +9,4 @@ If you are using a non-English version of Excel, you will likely need to rename 
 
 ## Sources
 http://www.techrepublic.com/blog/microsoft-office/modify-excels-default-sheet-to-fit-your-needs/
+https://superuser.com/questions/511580/delete-default-template-in-microsoft-excel-2010
